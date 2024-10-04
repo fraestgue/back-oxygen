@@ -1,0 +1,56 @@
+{
+  "convertions": [
+    {
+      "name": "km → milles",
+      "originalUnit": "km",
+      "resultUnit": "milles",
+      "equivalence": 0.621371
+    },
+    {
+      "name": "milles → km",
+      "originalUnit": "milles",
+      "resultUnit": "km",
+      "equivalence": 1.60934
+    },
+    {
+      "name": "metres → feet",
+      "originalUnit": "metres",
+      "resultUnit": "feet",
+      "equivalence": 3.28084
+    },
+    {
+      "name": "feet → metres",
+      "originalUnit": "feet",
+      "resultUnit": "metres",
+      "equivalence": 0.3048
+    },
+    {
+      "name": "cm → inches",
+      "originalUnit": "cm",
+      "resultUnit": "inches",
+      "equivalence": 0.393701
+    },
+    {
+      "name": "inches → cm",
+      "originalUnit": "inches",
+      "resultUnit": "cm",
+      "equivalence": 2.5400013716
+    }
+  ],
+  "favresults": [
+    {
+      "originalUnit": "km",
+      "originalNumber": "101",
+      "resultUnit": "milles",
+      "result": 62.758471,
+      "id": 345449
+    },
+    {
+      "originalUnit": "feet",
+      "originalNumber": "30",
+      "resultUnit": "metres",
+      "result": 9.144,
+      "id": 263771
+    }
+  ]
+}
